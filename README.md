@@ -11,12 +11,12 @@ This repository contains a collection of C++ projects developed during the secon
 - **Single Linked List**: Implementation and manipulation of a singly linked list.
 - **Tree**: Basic operations and traversal methods on tree data structures.
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Programming Language: C++
 - IDE: Dev-C++
 
-## 🚀 How to Run the Projects
+## How to Run the Projects
 
 1. Clone this repository to your local machine:
    ```bash
